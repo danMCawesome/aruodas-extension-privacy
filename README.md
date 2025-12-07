@@ -105,7 +105,7 @@ Any changes will be posted at the same public URL.
 
 For questions about this Privacy Policy, contact:
 
-**[your email address]**  
-*(d.shmeliov@gmail.com)*
+**[d.shmeliov@gmail.com]**  
+
 
 ---
