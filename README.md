@@ -1,6 +1,6 @@
 # Privacy Policy — Aruodas Assistant (Chrome Extension)
 
-**Last updated:** 2025-01-01  
+**Last updated:** 2025-07-12  
 *(Replace this date with the current one)*
 
 Aruodas Assistant (“the Extension”) is a Chrome browser extension designed to help users save notes, contact information, and reminders related to real estate listings on aruodas.lt.  
